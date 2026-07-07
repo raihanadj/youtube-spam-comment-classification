@@ -1,0 +1,10 @@
+Plaintext
+pandas
+nltk
+scikit-learn
+imblearn
+matplotlib
+seaborn
+tensorflow
+keras
+numpy
